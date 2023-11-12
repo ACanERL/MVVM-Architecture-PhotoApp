@@ -1,4 +1,4 @@
-# PhotoApp
+#MVVM-Architecture-PhotoApp
 
 Overview :
 
